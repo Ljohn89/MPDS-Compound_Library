@@ -4,7 +4,8 @@
 Molecular Property Diagnostic Suite-Compound Library (MPDS-CL), is an open-source galaxy-based cheminformatics web-portal which presents a structure-based classification of the molecules. A structure-based classification of nearly 150 million unique compounds has been done and deposited in MPDS-CL. A 56-bit fingerprint-based classification algorithm which led to a formation of 56 structurally well-defined classes. This is the official open source repository for the following paper:
 
 
-Lijo John, Selvaraman Nagamani, Hridoy Jyoti Mahanta, S. Vaikundamani, Nandan Kumar, Asheesh Kumar, Esther Jamir, Lipsa Priyadarsinee, G. Narahari Sastry (2023): Molecular Property Diagnostic Suite Compound Library (MPDS-CL): A Structure based Classification of the Chemical Space. https://www.researchsquare.com/article/rs-3236523/latest.pdf 
+Lijo John, Selvaraman Nagamani, Hridoy Jyoti Mahanta, S. Vaikundamani, Nandan Kumar, Asheesh Kumar, Esther Jamir, Lipsa Priyadarsinee, G. Narahari Sastry (2023): Molecular Property Diagnostic Suite Compound Library (MPDS-CL): A Structure based Classification of the Chemical Space. https://doi.org/10.1007/s11030-023-10752-1
+
 
 **Requirements**
 
@@ -56,4 +57,4 @@ Users can include the list of SMILES in “dataset.txt” and run “main.py” 
 
 **If you find this useful in your research, please cite**
 
-L. John.; S. Nagamani.; H.J. Mahanta.; S. Vaikundamani.; N. Kumar.; A. Kumar.; E. Jamir.; L. Priyadarsinee.; G. N. Sastry (2023): Molecular Property Diagnostic Suite Compound Library (MPDS-CL): A Structure based Classification of the Chemical Space. DOI: 10.21203/rs.3.rs-3236523/v1 
+John, L., Nagamani, S., Mahanta, H.J. et al. Molecular Property Diagnostic Suite Compound Library (MPDS-CL): a structure-based classification of the chemical space. Mol Divers (2023). https://doi.org/10.1007/s11030-023-10752-1
